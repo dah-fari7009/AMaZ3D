@@ -4,7 +4,7 @@ Objectifs atteints:
 - finalistaion de la classe Joueur
 - finalisation de la classe Labyrinthe pour le labyrinthe aléatoire
 - finalisation du menu et de la mise en forme
-- finalisation des classes GameVersion (TimeTrial, Solo et multijoueur)
+- finalisation des classes controller.GameVersion (TimeTrial, Solo et multijoueur)
 
 Objectifs à atteindre:
 - début de la modélisation du labyrinthe en 3D
