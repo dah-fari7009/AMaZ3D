@@ -1,7 +1,5 @@
 package org.example.amaz3d.model;
 
-import org.example.amaz3d.model.Maze;
-
 import java.awt.geom.Point2D;
 public class TimeBonus extends Bonus {
 
