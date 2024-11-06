@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="140f8c57-d2df-451f-b94d-7eb2b6190662" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AMaZ3D.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/libs/javafx-swt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/libs/javafx.base.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/libs/javafx.controls.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/libs/javafx.fxml.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/libs/javafx.graphics.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/libs/javafx.media.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/libs/javafx.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/libs/javafx.swing.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/libs/javafx.web.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/alert.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/css/alert.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chat.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/css/chat.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/css/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/Feuille_de_route.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/documentation/Feuille_de_route.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/Fiche de suivi semaine 10" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/documentation/Fiche de suivi semaine 10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/Fiche de suivi semaine 11" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/documentation/Fiche de suivi semaine 11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/Fiche de suivi semaine 12" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/documentation/Fiche de suivi semaine 12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/Fiche de suivi semaine 3" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/documentation/Fiche de suivi semaine 3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/Fiche de suivi semaine 4" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/documentation/Fiche de suivi semaine 4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/Fiche de suivi semaine 5" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/documentation/Fiche de suivi semaine 5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/Fiche de suivi semaine 6" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/documentation/Fiche de suivi semaine 6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/Fiche de suivi semaine 7" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/documentation/Fiche de suivi semaine 7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/Fiche de suivi semaine 8" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/documentation/Fiche de suivi semaine 8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/Fiche de suivi semaine 9" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/documentation/Fiche de suivi semaine 9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/Mode d'emploi" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/documentation/Mode d'emploi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/documentation/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/Rapport-Projet-de-programmation.odt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/documentation/Rapport-Projet-de-programmation.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fxml/Coin.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/fxml/Coin.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fxml/MegaCoin.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/fxml/MegaCoin.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fxml/Spider.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/fxml/Spider.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fxml/User.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/fxml/User.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fxml/bigkey.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/fxml/bigkey.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fxml/gate.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/fxml/gate.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fxml/ghost.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/fxml/ghost.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fxml/key.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/fxml/key.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fxml/sablier.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/fxml/sablier.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fxml/sablier2.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/fxml/sablier2.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fxml/sablier4.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/fxml/sablier4.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fxml/teleport.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/fxml/teleport.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Dark-Background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/Dark-Background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/brick.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/brick.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coin.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/coin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/death.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/death.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/end.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/end.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/help.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hourglass.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/hourglass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/inv.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/inv.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/key.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/key.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lab.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/lab.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/map.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/over.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/over.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pause.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/pause.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/play.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/quit.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/quit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/safe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/safe.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/save.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/save.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sky.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/images/sky.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/savings/desgtfy--27-04-18.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/savings/desgtfy--27-04-18.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/savings/dsfg--19-04-18.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/savings/dsfg--19-04-18.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/savings/rtfgkj--26-04-18.ser" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/savings/rtfgkj--26-04-18.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sounds/coin.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/sounds/coin.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sounds/footstep.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/sounds/footstep.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sounds/monster.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/sounds/monster.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sounds/scream.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/sounds/scream.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sounds/thump.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/sounds/thump.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sounds/zee.wav" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/sounds/zee.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sounds/zee2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/sounds/zee2.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/GameVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/controller/GameVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/MazeInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/controller/MazeInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/MultiPlayerVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/controller/MultiPlayerVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/controller/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/SoloVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/controller/SoloVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/TimeTrialVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/controller/TimeTrialVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/network/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/controller/networking/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/network/chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/controller/networking/Chat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/network/hostMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/controller/networking/HostMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/network/netFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/controller/networking/netFunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Bonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/model/Bonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Divers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/model/Divers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/model/Door.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/FormatNotSupported.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/model/exceptions/FormatNotSupported.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Key.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/model/Key.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/model/Maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/MazeFloors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/model/MazeFloors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Monstres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/model/Monstres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Obstacles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/model/Obstacles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/model/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Scores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/model/Scores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Teleporteur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/model/Teleporteur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/TimeBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/model/TimeBonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Triplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/model/Triplet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Vector3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/model/Vector3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/MultiView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/view/MultiView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/ScorePane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/view/ScorePane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/SingleView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/view/SingleView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/view/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/chatPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/view/ChatPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/network/netView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/amaz3d/view/network/NetView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt/bestRaces.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/txt/bestRaces.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt/bestSolos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/txt/bestSolos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt/labiTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/txt/labiTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt/megalabi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/amaz3d/txt/megalabi.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2oKntLgbaJ0dJJDTFIZ9DfK9Czz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Key.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Menu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.amaz3d.Menu.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;azul-23&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/fariakn/Desktop/Projects/AMaZ3D/src/main/libs/javafx.web.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fariakn\Desktop\Projects\AMaZ3D\src\main\resources\org\example\amaz3d" />
+      <recent name="C:\Users\fariakn\Desktop\Projects\AMaZ3D\src\main\java\org\example\amaz3d" />
+      <recent name="C:\Users\fariakn\Desktop\Projects\AMaZ3D\src\main\resources" />
+      <recent name="C:\Users\fariakn\Desktop\Projects\AMaZ3D\src\main\java" />
+      <recent name="C:\Users\fariakn\Desktop\Projects\AMaZ3D\src\main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.amaz3d" />
+      <recent name="model.exceptions" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Menu" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.example.amaz3d.Menu" />
+      <module name="AMaZ3D" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="140f8c57-d2df-451f-b94d-7eb2b6190662" name="Changes" comment="" />
+      <created>1730627350594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730627350594</updated>
+      <workItem from="1730627351505" duration="5644000" />
+      <workItem from="1730739642286" duration="13000" />
+      <workItem from="1730739680241" duration="117000" />
+      <workItem from="1730739812199" duration="67000" />
+      <workItem from="1730739895192" duration="477000" />
+      <workItem from="1730740389342" duration="7233000" />
+      <workItem from="1730753950911" duration="245000" />
+      <workItem from="1730754205665" duration="164000" />
+      <workItem from="1730754377394" duration="41000" />
+      <workItem from="1730754420223" duration="14000" />
+      <workItem from="1730754443641" duration="145000" />
+      <workItem from="1730754598970" duration="756000" />
+      <workItem from="1730755370554" duration="746000" />
+      <workItem from="1730756131171" duration="122000" />
+      <workItem from="1730756263196" duration="1299000" />
+      <workItem from="1730780551932" duration="4953000" />
+      <workItem from="1730799579523" duration="1561000" />
+      <workItem from="1730803465374" duration="765000" />
+      <workItem from="1730821419593" duration="738000" />
+      <workItem from="1730822169496" duration="253000" />
+      <workItem from="1730822433574" duration="534000" />
+      <workItem from="1730822975839" duration="10285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/module-info.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
